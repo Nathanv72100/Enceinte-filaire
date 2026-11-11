@@ -13,6 +13,10 @@ The goal of this project is to create a compact audio amplification board with a
 - **Audio input:** LCK-PJ-001 audio connector with MIC, Left (L), Right (R), and GND connections.
 - **Speaker connections:** Two 2-pin output connectors.
 - **Custom PCB:** Designed using EasyEDA.
+- <img width="1148" height="535" alt="image" src="https://github.com/user-attachments/assets/38012dbc-43b9-4c34-b46e-2c381664e510" />
+<img width="842" height="662" alt="image" src="https://github.com/user-attachments/assets/ded995d6-1f41-4531-8142-7886a3da59e3" />
+
+
 
 ---
 
@@ -28,6 +32,7 @@ The goal of this project is to create a compact audio amplification board with a
 | 1 µF capacitor | 1 | C1 |
 | 10 kΩ resistor | 1 | R1 |
 | 1 kΩ resistor | 1 | R6 |
+<img width="923" height="266" alt="image" src="https://github.com/user-attachments/assets/74ee38a0-627e-4cb0-b701-76dab0374248" />
 
 ---
 

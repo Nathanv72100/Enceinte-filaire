@@ -28,6 +28,7 @@ The goal of this project is to create a compact audio amplification board with a
 | 1 µF capacitor | 1 | C1 |
 | 10 kΩ resistor | 1 | R1 |
 | 1 kΩ resistor | 1 | R6 |
+<img width="923" height="266" alt="Capture d&#39;écran 2026-11-11 145519" src="https://github.com/user-attachments/assets/04a9039c-cb52-40f5-9e13-19e80b32c905" />
 
 ---
 
@@ -62,6 +63,7 @@ The goal of this project is to create a compact audio amplification board with a
 - EasyEDA — Schematic and PCB design.
 - USB-C Power Delivery — Power input and negotiation.
 - XPT8871-TCY — Audio amplifier modules.
+<img width="923" height="266" alt="Capture d&#39;écran 2026-11-11 145519" src="https://github.com/user-attachments/assets/c63812ed-d056-46d8-a81c-298e76159c6a" />
 
 ---
 

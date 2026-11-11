@@ -63,7 +63,7 @@ The goal of this project is to create a compact audio amplification board with a
 - EasyEDA — Schematic and PCB design.
 - USB-C Power Delivery — Power input and negotiation.
 - XPT8871-TCY — Audio amplifier modules.
-<img width="923" height="266" alt="Capture d&#39;écran 2026-11-11 145519" src="https://github.com/user-attachments/assets/c63812ed-d056-46d8-a81c-298e76159c6a" />
+<img width="842" height="662" alt="Capture d&#39;écran 2026-11-11 145500" src="https://github.com/user-attachments/assets/ebfc6144-ba52-4d97-9c80-a9752d1e7819" />
 
 ---
 
